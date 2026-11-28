@@ -1,0 +1,9 @@
+{
+  "dataset": "Goader/ukrainian-news-2026",
+  "seed": 42,
+  "train_documents": 8999,
+  "val_documents": 1000,
+  "train_tokens": 5222637,
+  "val_tokens": 559322,
+  "vocab_size": 8000
+}
